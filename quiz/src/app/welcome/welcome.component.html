@@ -1,0 +1,23 @@
+
+<div class="container  bg-dark text-light my-1 py-5 bg-image" style="background-image: url('assets/img/backround.jpg'); height: 100%;opacity:5 ;">
+   
+ <h1 class="display-4 fw-bold ">Welcome to  quiz app </h1>
+ <p class="col-md-8 fs-4 ">Quiz contain 10 question & each hold 10 points.</p>
+ <h4>Rules for this quiz:</h4>
+ <ol >
+    <li>Correct answer will incur 10 point for each. </li>
+    <li>Similarly  incorrect answer will incur -10 point for each. </li>
+    <li>Receive 60 second for each question. </li>
+    <li>Refreshing will reset the quiz(so refrain refresh while doing quiz).</li>
+ </ol>
+ <h3 style="text-align :center ">Best of luck to score better!!</h3>
+ <div class="name col-md-4 my-4 ">
+    <label for="name"> Enter your name</label>
+    <input #name type="text"class="form-control">
+ </div>
+ <button class="btn btn-outline-light" routerLink="/questions" (click)="startQuiz()">Click to start the quiz</button>
+
+</div>
+
+
+

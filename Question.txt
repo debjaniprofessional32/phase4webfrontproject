@@ -1,0 +1,188 @@
+CBSE Class 10 Computer Science Links and CSS in HTML MCQs
+Computers
+Download PDF
+CBSE Class 10 Computer Science Links and CSS in HTML MCQs with answers available in Pdf for free download. The MCQ Questions for Class 10 Computers with answers have been prepared as per the latest syllabus, NCERT books and examination pattern suggested in Standard 10 by CBSE, NCERT and KVS. Multiple Choice Questions are an important part of Term 1 and Term 2 exams for Grade 10 Computers and if practiced properly can help you to get higher marks. Refer to more Chapter-wise MCQs for NCERT Class 10 Computers and also download more latest study material for all subjects
+
+Links and CSS in HTML Class 10 Computers MCQ
+Class 10 Computers students should refer to the following multiple-choice questions with answers for Links and CSS in HTML in standard 10. These MCQ questions with answers for Grade 10 Computers will come in exams and help you to score good marks
+
+Links and CSS in HTML MCQ Questions Class 10 Computers with Answers
+
+ 
+MCQ Questions for NCERT Class 10 Computer Science Links and CSS in HTML
+
+Question: The float property of a CSS defines the
+(a) content
+(b) text
+(c) flow of content
+(d) None of these 
+
+Answer: C
+
+Question: Symbol used in href for linking to the section in the same document.
+(a) #
+(b) @
+(c) ?
+(d) None of these 
+
+Answer: A
+
+Question: ………… uses the id attribute of an HTML element to select a specific element.
+(a) class selector
+(b) id selector
+(c) Both (a) and
+(b) (d) None of these 
+
+Answer: B
+
+Question: The tag used in HTML to link a web page with other web page is 
+(a)
+(b)
+(c)
+(d)  
+
+Answer: A
+
+Question: .....…….... is the default color of a hyperlink.
+(a) Red
+(b) Blue
+(c) Green
+(d) Black
+
+Answer: B 
+
+Question: …………… property of CSS specifies the horizontal alignment of text in an element.
+(a) float
+(b) width
+(c) text-align
+(d) padding 
+
+Answer: C
+
+Question: Which of the following is not the attribute of tag? 
+(a) name
+(b) title
+(c) href
+(d) src
+
+Answer: D
+
+Question: Which tag tells, where a link starts? 
+(a)
+(b)
+(c)
+(d) None of these
+
+Answer: C
+
+Question: Which command should be used to link a page with HTML page? 
+(a)
+(b) page
+(c)
+(d)
+
+Answer: B
+
+Question: With which code, you can make an image works as hyperlink? 
+(a) Text
+(b)Click Here
+(c) Click Here
+(d) None of the above
+
+Answer: B
+
+Question: To create a hyperlinked image,
+(a) thetag should be within tag
+(b) the tag should be withintag
+(c) thetag should be before the tag
+(d) thetag should be after the tag
+
+Answer: A 
+
+Question: Which of the following linking allows a link to another section on the same or different web pages?
+(a) Internal
+(b) External
+(c) Inline
+(d) Outline 
+
+Answer: A
+
+Question: For internal linking, section names are provided by ........... attribute of tag.
+(a) title
+(b) href
+(c) name
+(d)None of these
+
+Answer: C
+
+Question: Is it possible to link within the current page?
+(a) No
+(b) Only in framesets
+(c) Yes
+(d) Cannot say
+
+Answer: C 
+
+Question: Which of the following is used to send E-mails through a website?
+(a) tomail
+(b)mailto
+(c) Both (a) and (b)
+(d)None of these
+
+Answer: B
+
+Question: Which property of CSS is used to set the font type of an HTML element?
+(a) font-size
+(b) font-style
+(c) font-family
+(d) float
+
+Answer: C
+
+Question: …… attribute of the tag is used to name a section in a web page to create an internal link.
+(a) href
+(b) name
+(c) align
+(d) link
+
+Answer: B 
+
+Question: ………… is designed primarily to enable the separation of document content from document presentation.
+(a) HTML
+(b) CSS
+(c) CS
+(d) None of these 
+
+Answer: B
+
+Question: In which of the following, selector hash (#) character is used?
+(a) id
+(b) class
+(c) Both (a) and (b)
+(d) None of these 
+
+Answer: A
+
+Question: Which attribute of
+(a) controls
+(b) type
+(c) src
+(d) loop 
+
+Answer: C 
+
+Question: With an ……… you can change the look of the entire website.
+(a) external style sheet
+(b) internal style sheet
+(c) inline style
+(d) None of these
+
+Answer: A
+
+Question: Choose the correct syntax to create an E-mail link.
+(a) abc@xyz.com">
+(b) mailto:abc@xyz.com">
+(c) abc@xyz.com">
+(d) abc@xyz.com">
+
+Answer: B

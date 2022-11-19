@@ -1,0 +1,198 @@
+{
+"questions":[
+
+    {
+        "questionText":"The float property of a CSS defines the ________.",
+        "options":[
+            {
+                "text":"content"
+                
+            },
+            {
+                "text":"text" 
+            },
+            {
+                "text":"flow of content" ,
+                "correct": true
+            },
+            {
+                "text":"None of these " 
+            }
+        ],
+        "explanation":"The CSS float property specifies how an element should float. The CSS clear property specifies what elements can float beside the cleared element and on which side."
+    },    
+    {
+        "questionText":"Symbol used in href for linking to the section in the same document.",
+        "options":[
+            {
+                "text":"#",
+                "correct": true
+            },
+            {
+                "text":"@" 
+            },
+            {
+                "text":"?" 
+            },
+            {
+                "text":"None of these " 
+            }
+        ],
+        "explanation":"This is the most used attribute for the <a> tag. This is what is used to create a hyperlink. The value associated with the href attribute should be either a complete or relative address to another web page, a mail link or an anchor name ." 
+    },
+    {
+        "questionText":"_________ uses the id attribute of an HTML element to select a specific element.",
+        "options":[
+            {
+                "text":"class selector"
+            },
+            {
+                "text":" id selector" ,
+                "correct": true
+            },
+            {
+                "text":"Both (a) and (b)"
+            },
+            {
+                "text":"None of these " 
+            }
+        ],
+        "explanation":"Because an id is always unique within the page, it is used to select a single, distinct element" 
+    },
+    {
+        "questionText":" ________ is the default color of a hyperlink..",
+        "options":[
+            {
+                "text":"Red"
+            },
+            {
+                "text":"Blue",
+                "correct": true
+            },
+            {
+                "text":"Green" 
+            },
+            {
+                "text":"Black " 
+            }
+        ],
+        "explanation":"An unvisited link is underlined and blue in color normally" 
+    },
+    {
+        "questionText":"_________ property of CSS specifies the horizontal alignment of text in an element.",
+        "options":[
+            {
+                "text":"float"
+            },
+            {
+                "text":"width" 
+            },
+            {
+                "text":"text-align" ,
+                "correct": true
+            },
+            {
+                "text":"padding" 
+            }
+        ],
+        "explanation":"The text-align property in CSS is used to specify the horizontal alignment of text in an element ie., it is used to set the alignment of the content horizontally, inside a block element or table-cell box." 
+    },
+    {
+        "questionText":" Which of the following linking allows a link to another section on the same or different web pages? ",
+        "options":[
+            {
+                "text":"Internal",
+                "correct": true
+            },
+            {
+                "text":"External" 
+            },
+            {
+                "text":"Inline" 
+            },
+            {
+                "text":"Outline " 
+            }
+        ],
+        "explanation":"Internal links are hyperlinks that point at (target) the same domain as the domain that the link exists on (source). In layman's terms, an internal link is one that points to another page on the same website." 
+    },
+    {
+        "questionText":" For internal linking, section names are provided by ______ attribute of tag.",
+        "options":[
+            {
+                "text":"title"
+            },
+            {
+                "text":"href" 
+            },
+            {
+                "text":" name" ,
+                "correct": true
+            },
+            {
+                "text":"None of these " 
+            }
+        ],
+        "explanation":"The name attribute is used to reference elements in a JavaScript, or to reference form data after a form is submitted." 
+    },
+    {
+        "questionText":"Which of the following is used to send E-mails through a website?",
+        "options":[
+            {
+                "text":"tomail"
+            },
+            {
+                "text":"mailto",
+                "correct": true 
+            },
+            {
+                "text":"Both (a) and (b)" 
+            },
+            {
+                "text":"None of these " 
+            }
+        ],
+        "explanation":"HTML <a> tag provides you option to specify an email address to send an email. While using <a> tag as an email tag, you will use mailto: email address along with href attribute. Following is the syntax of using mailto instead of using http. This code will generate the following link which you can use to send email." 
+    },
+    {
+        "questionText":" Which property of CSS is used to set the font type of an HTML element?",
+        "options":[
+            {
+                "text":"font-size"
+            },
+            {
+                "text":"font-style" 
+            },
+            {
+                "text":"font-family" ,
+                "correct": true
+            },
+            {
+                "text":"float" 
+            }
+        ],
+        "explanation":"To change font type purely with HTML, use the CSS font-family property. Set it to the value you want and place it inside a style attribute." 
+    },
+    {
+        "questionText":" A CSS declaration always ends with a ___.",
+        "options":[
+            {
+                "text":"dot"
+            },
+            {
+                "text":"colon" 
+            },
+            {
+                "text":"semicolon" ,
+                "correct": true
+            },
+            {
+                "text":"hash " 
+            }
+        ],
+        "explanation":"The declaration block contains one or more declarations separated by semicolons. Each declaration includes a CSS property name and a value, separated by a colon. Multiple CSS declarations are separated with semicolons, and declaration blocks are surrounded by curly braces" 
+    }
+]
+
+
+}
